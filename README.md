@@ -18,7 +18,8 @@ Markdown
 
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/execution_result.png) <img width="826" height="472" alt="1792738649000_3999920844563758314_3999920844563758314_69d91a7464c60647d528b4050d057f6d" src="https://github.com/user-attachments/assets/ebb58a7a-9502-4846-94d4-62a08aaab139" />
+![Thực thi chức năng](./screenshots/execution_result.png) <img width="1170" height="611" alt="1792738714672_3999920844563758314_3999920844563758314_71aa2f27aafe64a9d118953b6b4b45e6" src="https://github.com/user-attachments/assets/b0a5030d-882b-4123-8c1f-e85dd4d977b8" />
+
 
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
