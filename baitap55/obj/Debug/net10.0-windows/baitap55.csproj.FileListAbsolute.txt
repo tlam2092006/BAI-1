@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\baitap55\baitap55\bin\Debug\net10.0-windows\baitap55.exe
+C:\Users\Lenovo\source\repos\baitap55\baitap55\bin\Debug\net10.0-windows\baitap55.deps.json
+C:\Users\Lenovo\source\repos\baitap55\baitap55\bin\Debug\net10.0-windows\baitap55.runtimeconfig.json
+C:\Users\Lenovo\source\repos\baitap55\baitap55\bin\Debug\net10.0-windows\baitap55.dll
+C:\Users\Lenovo\source\repos\baitap55\baitap55\bin\Debug\net10.0-windows\baitap55.pdb
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.Form1.resources
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.dll
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\refint\baitap55.dll
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.pdb
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\ref\baitap55.dll
+C:\Users\Lenovo\source\repos\baitap55\baitap55\obj\Debug\net10.0-windows\baitap55.csproj.Up2Date
